@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mamata890/new_monster/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Mamata890/new_monster/static/js/main.eba50612.chunk.js",
+    "main.js.map": "/Mamata890/new_monster/static/js/main.eba50612.chunk.js.map",
+    "runtime-main.js": "/Mamata890/new_monster/static/js/runtime-main.dac22965.js",
+    "runtime-main.js.map": "/Mamata890/new_monster/static/js/runtime-main.dac22965.js.map",
+    "static/js/2.62c2cd20.chunk.js": "/Mamata890/new_monster/static/js/2.62c2cd20.chunk.js",
+    "static/js/2.62c2cd20.chunk.js.map": "/Mamata890/new_monster/static/js/2.62c2cd20.chunk.js.map",
+    "index.html": "/Mamata890/new_monster/index.html",
+    "precache-manifest.6824ea608ec5dcfe28bd63a066c63c6f.js": "/Mamata890/new_monster/precache-manifest.6824ea608ec5dcfe28bd63a066c63c6f.js",
+    "service-worker.js": "/Mamata890/new_monster/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Mamata890/new_monster/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.62c2cd20.chunk.js.LICENSE": "/Mamata890/new_monster/static/js/2.62c2cd20.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Mamata890/new_monster/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dac22965.js",
+    "static/js/2.62c2cd20.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.eba50612.chunk.js"
+  ]
+}
